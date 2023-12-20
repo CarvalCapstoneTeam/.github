@@ -6,7 +6,7 @@
 
 An Android app designed to offer a reliable solution, our application addresses the challenges faced by job seekers dealing with fraudulent job listings. We empower users to verify the authenticity of job postings, enabling them to pursue opportunities without the fear of scams. Join us in simplifying the job search experience and safeguarding your time and money!~
 
-### Main Features 📱
+## Main Features 📱
 **1. JOVA (Job Vacancy Detection)**
 
 (image)
