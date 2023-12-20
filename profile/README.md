@@ -2,18 +2,18 @@
 
 ### Let's get acquainted with Carval!
 
-(image)
+<img src="https://carval.cloud/assets/front/img/about.png" height="500">
 
 An Android app designed to offer a reliable solution, our application addresses the challenges faced by job seekers dealing with fraudulent job listings. We empower users to verify the authenticity of job postings, enabling them to pursue opportunities without the fear of scams. Join us in simplifying the job search experience and safeguarding your time and money!~
 
 ## Main Features 📱
 **1. JOVA (Job Vacancy Detection)**
 
-(image)
+<img src="https://carval.cloud/assets/front/img/solution1.png" height="500">
 
 **2. ARCA (Article About Job And Carrer)**
 
-(image)
+<img src="https://carval.cloud/assets/front/img/solution2.png" height="500">
 
 ## Meet Our Team! 👥
 
