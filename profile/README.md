@@ -9,13 +9,14 @@ An Android app designed to offer a reliable solution, our application addresses 
 ## Main Features 📱
 **1. JOVA (Job Vacancy Detection)**
 
-<img src="https://carval.netlify.app/assets/img/jova.png" height="500">
+<img src="https://carval.netlify.app/assets/img/jova.jpg" height="500">
 
 **2. ARCA (Article About Job And Carrer)**
 
-<img src="https://carval.netlify.app//assets/img/Arca.png" height="500">
+<img src="https://carval.netlify.app//assets/img/arca.jpg" height="500">
 
 ## Meet Our Team! 👥
+<img src="https://carval.netlify.app/assets/img/ss1.jpg" height="500">
 
 | Bangkit ID | Name | Learning Path | University | Contact |
 | ----- | ----- | ----- | ----- | ----- |
