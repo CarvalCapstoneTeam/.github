@@ -27,7 +27,7 @@ An Android app designed to offer a reliable solution, our application addresses 
 | A694BSY2183 | Billy Franko | Mobile Development | Universitas Multi Data Palembang | <a href="https://www.linkedin.com/in/billy-franko-6aa500288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
 
 ## Technology Stack! ⚙
-<h3 align="left">Machine Learning</h3>
+<h3 align="left">Machine Learning 🧠</h3>
 <p align="left">
 <img align="left" src="https://carval.netlify.app/assets/img/keras.png" alt="Keras" width="150px"/>
 <img align="left" src="https://carval.netlify.app/assets/img/tf.png" alt="TensorFlow" width="150px"/>
@@ -36,7 +36,7 @@ An Android app designed to offer a reliable solution, our application addresses 
 
 <br clear="left" />
 
-<h3 align="left">Mobile Development</h3>
+<h3 align="left">Mobile Development 📱</h3>
 <p align="left">
 <img align="left" src="https://carval.netlify.app/assets/img/kotlin.png" alt="kotlin.png" width="150px"/>
 <img align="left" src="https://carval.netlify.app/assets/img/retrofit.png" alt="retrofit.png" width="150px"/>
@@ -45,7 +45,7 @@ An Android app designed to offer a reliable solution, our application addresses 
 
 <br clear="left" />
 
-<h3 align="left">Cloud Computing</h3>
+<h3 align="left">Cloud Computing ☁</h3>
 <p align="left">
 <img align="left" src="https://carval.netlify.app/assets/img/flask.png" alt="flask.png" width="140px"/>
 <img align="left" src="https://carval.netlify.app/assets/img/laravel.png" alt="laravel.png" width="150px"/>
